@@ -62,7 +62,7 @@ const Project = () => {
 								management.
 							</p>
 							<a
-								href="#"
+								href="https://github.com/shelsmilus/DashBoard"
 								className="mt-3 inline-block font-semibold text-blue-500 hover:underline"
 							>
 								View project
